@@ -228,7 +228,7 @@ def generate_pdf_resume(data: Dict[str, Any]) -> bytes:
     return buffer.getvalue()
 
 def main():
-    st.set_page_config(page_title="KARM", layout="wide")
+    st.set_page_config(page_title="Wesume", layout="wide")
     st.header("Knowledge-Enhanced Assistance for Resume Management 📈")
     
     if "conversation" not in st.session_state:
