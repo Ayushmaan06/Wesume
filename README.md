@@ -26,8 +26,8 @@ A tool designed to streamline resume analysis, review, and improvement using adv
 ## Installation 💻
 - Clone the Repository
 ```
-git clone https://github.com/your-repo/karm.git
-cd karm
+git clone https://github.com/your-repo/Wesume.git
+cd Wesume
 ```
 - Install Dependencies
   -Ensure you have Python 3.8+ installed.
